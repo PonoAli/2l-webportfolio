@@ -2,7 +2,7 @@
 
 ## Демонстрация
 
-[https://ponoali.github.io/react_project1/](https://ponoali.github.io)
+https://ponoali.github.io/2l-webportfolio/
 
 ## `Использованы технологии`
 
