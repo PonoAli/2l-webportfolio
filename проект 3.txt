@@ -1,0 +1,5 @@
+ {project.gitHubLink && (
+                    <BtnGitHub link="https://gitHub.com" />
+                )}
+
+Если в элементе нет ссылки на https://gitHub.com", то кнопка не показывается
